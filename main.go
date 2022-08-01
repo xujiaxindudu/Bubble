@@ -7,9 +7,6 @@ import (
 	"log"
 )
 
-
-
-
 func main(){
 	//创建数据库：CREATE DATABASE bubble
 	//连接数据库
